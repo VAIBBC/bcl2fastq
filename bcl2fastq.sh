@@ -1,7 +1,7 @@
 #PBS -l walltime=100:00:00
 #PBS -l mem=120gb
 #PBS -l nodes=1:ppn=28
-#PBS -M megan.bowman@vai.org
+#PBS -M youremail@institute.org
 #PBS -m abe
 #PBS -N bcl2fastq
 
